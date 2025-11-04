@@ -1,0 +1,26 @@
+h3 { text-align: center;
+  color: black;
+  font-size: 60px;
+}
+p {
+  font-size: 30px;
+}
+.container {
+  display: flex;
+}
+
+.layout {
+  width: 100%;
+
+  display: flex;
+  gap: 16px;
+
+  justify-content: center;
+}
+
+div {
+  font-size: 60px;
+}
+li{ font-size: 40px;
+
+}
